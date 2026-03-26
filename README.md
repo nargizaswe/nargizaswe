@@ -1,6 +1,5 @@
-Hi, I'm Jetkergenova Nargiz<img src="http://iheartcatgifs.tumblr.com/post/161153739/glamourcats-toodles"
-                      
-
+Hi, I'm Jetkergenova Nargiza
+<img src="https://giphy.com/pudgypenguins/">
 <!--
 **nargizaswe/nargizaswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
