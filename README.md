@@ -1,7 +1,8 @@
 # Hi, I'm Jetkergenova Nargiza
 <img src="https://giphy.com/pudgypenguins/">
-### Software Egineer Student
-### Web Developer Student
+
+Software Engineer Student
+Web Developer Student
 <!--
 **nargizaswe/nargizaswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
