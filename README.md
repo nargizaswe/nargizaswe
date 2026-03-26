@@ -7,14 +7,14 @@ Web Developer Student
 
  😊About me:
  
-•🛕 I'm a student at Muhammed al Xorezmiy miyrasxorlari
+•🛕 I'm a student at **Muhammed al Xorezmiy miyrasxorlari**
 
-•💻 I'm a currently learning HTML5 and CSS3
+•💻 I'm a currently learning **HTML5** and **CSS3**
 
 •⚡I love solving logic puzzles and
 buibuildingacker-style"web projects
 
-🌎Based in Karakalpakstan,Uzbekistan.
+🌎Based in **Karakalpakstan,Uzbekistan**.
 <!--
 *na--izaswe/nargizaswe** is a ✨ ispecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
