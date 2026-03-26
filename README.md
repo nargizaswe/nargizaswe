@@ -11,7 +11,7 @@ Web Developer Student
 •💻 I'm a currently learning HTML5 and CSS3
 
 •⚡I love solving logic puzzles and
-building "hacker-style"web projects
+buibuildingacker-style"web projects
 
 🌎Based in Karakalpakstan,Uzbekistan.
 <!--
