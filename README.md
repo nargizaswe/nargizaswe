@@ -4,7 +4,6 @@
 Software Engineer Student
 
 Web Developer Student
-
 😊About me:
 •🛕 I'm a student at Muhammed al Xorezmiy miyrasxorlari
 
