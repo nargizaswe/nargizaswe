@@ -4,8 +4,9 @@
 Software Engineer Student
 
 Web Developer Student
-😊About me:
-•🛕 I'm a student at Muhammed al Xorezmiy miyrasxorlari
+ 😊About me:
+ 
+🛕 I'm a student at Muhammed al Xorezmiy miyrasxorlari
 
 •💻 I'm a currently learning HTML5 and CSS3
 
