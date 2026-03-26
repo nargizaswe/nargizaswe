@@ -1,4 +1,4 @@
-Hi, I'm Jetkergenova Nargiza
+Hi, I'm Jetkergenova Nargiza👋
 
 <!--
 **nargizaswe/nargizaswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
